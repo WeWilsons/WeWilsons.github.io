@@ -10,3 +10,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - README.md
+  - node_modules/
